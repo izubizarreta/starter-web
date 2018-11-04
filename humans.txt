@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Iñigo
 
 # TECHNOLOGY COLOPHON
 
